@@ -1,16 +1,40 @@
-## Hi there 👋
+<!-- Banner -->
+<p align="center">
+  <img src="banner.png" alt="Banner do Perfil" width="100%">
+</p>
 
-<!--
-**alanyf17/alanyf17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Olá! 👋 Eu sou a Alany Freitas de Oliveira</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">
+🎓 Acadêmica de Direito | 💻 Estudante de Programação Full Stack
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+👩‍💻 Sobre mim
+
+- 🎓 Acadêmica de **Direito** – 8º Período
+- 🏛️ Universidade **UNINORTE**
+- 💻 Estudante de **Programação Full Stack** – SENAI
+- 📍 Rio Branco – Acre
+- 🌱 Atualmente estudando HTML, CSS, JavaScript e Desenvolvimento Web.
+- 🚀 Buscando evoluir constantemente e desenvolver projetos que unam tecnologia e inovação.
+
+
+
+🚀 Tecnologias em desenvolvimento
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,vscode" />
+</p>
+
+
+
+📫 Contato
+
+- 📧 Email: seuemail@email.com
+
+
+
+<p align="center">
+✨ Obrigada por visitar meu perfil! ✨
+</p>
